@@ -1,4 +1,4 @@
-# student_registration![students](https://github.com/DarielEGM/student_registration/assets/123778387/d98e1288-e0f4-4a22-91bd-c651345b734a)
+# student_registration ![students](https://github.com/DarielEGM/student_registration/assets/123778387/d98e1288-e0f4-4a22-91bd-c651345b734a)
 
 This project was built with Python.
 
